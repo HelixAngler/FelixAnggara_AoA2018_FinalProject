@@ -14,3 +14,6 @@ Guide:
 - I won't explain again 'Exit'. You already know it already.
 
 Every time change the file or exit program, save or not or cancel prompt will activate first to confirm.
+
+Video download:
+https://www.dropbox.com/s/4q1d79kfmos09nt/Final%20project%20aoa.mp4?dl=0
